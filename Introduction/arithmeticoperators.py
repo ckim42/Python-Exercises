@@ -1,4 +1,4 @@
-'''Take two integers as input. Print three lines where:
+'''Challenge #3: Take two integers as input. Print three lines where:
 (1) First line contains the SUM of the two numbers
 (2) Second line contains the DIFFERENCE of the two numbers (first-second)
 (3) Third line contains the PRODUCT of the two numbers.'''

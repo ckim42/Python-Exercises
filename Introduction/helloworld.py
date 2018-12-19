@@ -1,4 +1,4 @@
-'''Challenge: Print Hello, World!'''
+'''Challenge #1: Print Hello, World!'''
 
 # Using a function + return
 
